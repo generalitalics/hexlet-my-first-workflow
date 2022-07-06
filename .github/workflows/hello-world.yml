@@ -14,4 +14,4 @@ jobs:
       - uses: actions@v2
       # run – произвольная bash-команда
       # ls -la выведет содержимое текущего репозитория
-      - run: print "Hello World"
+      - run: echo "Hello World"
